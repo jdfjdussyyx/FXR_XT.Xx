@@ -1,7 +1,7 @@
 {
   "name": "knightbot",
   "version": "1.0.0",
-  "description": "WhatsApp Bot",
+  "description": "FxrWhatsApp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
